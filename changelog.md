@@ -6,4 +6,8 @@ A simple _hello world_ script in Python.
 
 ## Version 1.0.1
 
-Utilización de las principales operaciones aritméticas, y las estructuras selecctivas. Además de un programa que calcula el área de un círculo.
+Utilización de las principales operaciones aritméticas, y las estructuras selecctivas. Además de un programa que calcula el área de un círculo.}
+
+## Version 1.0.2
+
+Utilizacion del ciclo for, while, listas, conjuntos y tuplas.
