@@ -15,3 +15,7 @@ Utilizacion del ciclo for, while, listas, conjuntos y tuplas.
 ## Version 1.0.3
 
 Utilizacion de funciones y recursividad.
+
+## Version 1.0.4
+
+Manejo de errores
