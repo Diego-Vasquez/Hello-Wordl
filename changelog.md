@@ -19,3 +19,7 @@ Utilizacion de funciones y recursividad.
 ## Version 1.0.4
 
 Manejo de errores
+
+## Version 1.0.5
+
+Programación orientada a objetos (POO)
